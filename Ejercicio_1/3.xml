@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="E0DB-C2-3D94-37-F4B7-B1-AF">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="C75B-7E-13B-C8-8F8F-5D-A9">
 <InfoDiagrama ID="1">
 <Versao Valor="3.2.0"/>
 <Autores/>
@@ -13,36 +13,36 @@
 <Localizacao Left="0" Top="0"/>
 <Realce Valor="false"/>
 </InfoDiagrama>
-<Entidade ID="2">
-<Bounds Height="58" Left="34" Top="83" Width="120"/>
-<DisablePainted Valor="false"/>
-<Texto>Alumno</Texto>
-<Observacao/>
-<Dicionario/>
-<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
-<Ancorado Valor="false"/>
-<AtributosOcultos Valor=""/>
-</Entidade>
 <Entidade ID="3">
-<Bounds Height="58" Left="496" Top="84" Width="120"/>
+<Bounds Height="58" Left="94" Top="87" Width="120"/>
 <DisablePainted Valor="false"/>
-<Texto>Trabajo</Texto>
+<Texto>Autor</Texto>
 <Observacao/>
 <Dicionario/>
 <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
 <Ancorado Valor="false"/>
 <AtributosOcultos Valor=""/>
 </Entidade>
-<Relacionamento ID="11">
-<Bounds Height="50" Left="255" Top="88" Width="150"/>
+<Entidade ID="5">
+<Bounds Height="58" Left="511" Top="98" Width="120"/>
 <DisablePainted Valor="false"/>
-<Texto>Realiza</Texto>
+<Texto>Libro</Texto>
+<Observacao/>
+<Dicionario/>
+<Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
+<Ancorado Valor="false"/>
+<AtributosOcultos Valor=""/>
+</Entidade>
+<Relacionamento ID="6">
+<Bounds Height="50" Left="291" Top="89" Width="150"/>
+<DisablePainted Valor="false"/>
+<Texto>Escribe</Texto>
 <Observacao/>
 <Dicionario/>
 <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
 <Ancorado Valor="false"/>
 </Relacionamento>
-<Ligacao ID="12">
+<Ligacao ID="9">
 <DisablePainted Valor="false"/>
 <Tag LinhaMestre="-1"/>
 <Dashed Valor="false"/>
@@ -53,15 +53,15 @@
 <SetaLargura Valor="10"/>
 <Inteligente Valor="true"/>
 <Largura Valor="1"/>
-<Ligacoes PontaA="2" PontaB="11"/>
+<Ligacoes PontaA="3" PontaB="6"/>
 <Pontos>
-<Ponto Left="151" Top="110"/>
-<Ponto Left="201" Top="110"/>
-<Ponto Left="201" Top="102"/>
-<Ponto Left="277" Top="102"/>
+<Ponto Left="211" Top="126"/>
+<Ponto Left="249" Top="126"/>
+<Ponto Left="249" Top="120"/>
+<Ponto Left="313" Top="120"/>
 </Pontos>
-<Cardinalidade ID="13">
-<Bounds Height="15" Left="161" Top="97" Width="35"/>
+<Cardinalidade ID="10">
+<Bounds Height="15" Left="221" Top="113" Width="35"/>
 <DisablePainted Valor="false"/>
 <Texto>Cardinalidade_1</Texto>
 <Observacao/>
@@ -74,7 +74,7 @@
 <Papel Valor=""/>
 </Cardinalidade>
 </Ligacao>
-<Ligacao ID="14">
+<Ligacao ID="12">
 <DisablePainted Valor="false"/>
 <Tag LinhaMestre="-1"/>
 <Dashed Valor="false"/>
@@ -85,15 +85,16 @@
 <SetaLargura Valor="10"/>
 <Inteligente Valor="true"/>
 <Largura Valor="1"/>
-<Ligacoes PontaA="11" PontaB="3"/>
+<Ligacoes PontaA="6" PontaB="5"/>
 <Pontos>
-<Ponto Left="352" Top="127"/>
-<Ponto Left="352" Top="149"/>
-<Ponto Left="543" Top="149"/>
-<Ponto Left="543" Top="139"/>
+<Ponto Left="413" Top="120"/>
+<Ponto Left="473" Top="120"/>
+<Ponto Left="473" Top="163"/>
+<Ponto Left="539" Top="163"/>
+<Ponto Left="539" Top="153"/>
 </Pontos>
-<Cardinalidade ID="15">
-<Bounds Height="15" Left="510" Top="149" Width="35"/>
+<Cardinalidade ID="13">
+<Bounds Height="15" Left="506" Top="163" Width="35"/>
 <DisablePainted Valor="false"/>
 <Texto>Cardinalidade_2</Texto>
 <Observacao/>
