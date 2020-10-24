@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="77A-18-FCB9-FE-7F81-6-32">
+<DIAGRAMA ID="1" TIPO="tpConceitual" UniversalUnicID="D6F1-DC-7F23-72-C8EE-16-DC">
 <InfoDiagrama ID="1">
 <Versao Valor="3.2.0"/>
 <Autores/>
@@ -53,7 +53,7 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="3" PontaB="2"/>
 <Pontos>
-<Ponto Left="136" Top="19"/>
+<Ponto Left="137" Top="19"/>
 <Ponto Left="123" Top="19"/>
 <Ponto Left="123" Top="123"/>
 </Pontos>
@@ -88,7 +88,7 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="6" PontaB="2"/>
 <Pontos>
-<Ponto Left="144" Top="40"/>
+<Ponto Left="145" Top="40"/>
 <Ponto Left="131" Top="40"/>
 <Ponto Left="131" Top="123"/>
 </Pontos>
@@ -123,7 +123,7 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="9" PontaB="2"/>
 <Pontos>
-<Ponto Left="155" Top="60"/>
+<Ponto Left="156" Top="60"/>
 <Ponto Left="142" Top="60"/>
 <Ponto Left="142" Top="123"/>
 </Pontos>
@@ -158,10 +158,8 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="12" PontaB="2"/>
 <Pontos>
-<Ponto Left="173" Top="107"/>
+<Ponto Left="174" Top="107"/>
 <Ponto Left="164" Top="107"/>
-<Ponto Left="164" Top="119"/>
-<Ponto Left="164" Top="119"/>
 <Ponto Left="164" Top="123"/>
 </Pontos>
 </Ligacao>
@@ -205,10 +203,8 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="16" PontaB="15"/>
 <Pontos>
-<Ponto Left="655" Top="56"/>
+<Ponto Left="656" Top="56"/>
 <Ponto Left="646" Top="56"/>
-<Ponto Left="646" Top="97"/>
-<Ponto Left="646" Top="97"/>
 <Ponto Left="646" Top="131"/>
 </Pontos>
 </Ligacao>
@@ -242,7 +238,7 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="19" PontaB="15"/>
 <Pontos>
-<Ponto Left="664" Top="83"/>
+<Ponto Left="665" Top="83"/>
 <Ponto Left="654" Top="83"/>
 <Ponto Left="654" Top="131"/>
 </Pontos>
@@ -274,7 +270,7 @@
 <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
 <Ancorado Valor="false"/>
 <TamanhoAutmatico Valor="true"/>
-<Card Valor="2"/>
+<Card Valor="3"/>
 <MovimentacaoManual Valor="false"/>
 <Papel Valor=""/>
 </Cardinalidade>
@@ -315,7 +311,7 @@
 <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
 <Ancorado Valor="false"/>
 <TamanhoAutmatico Valor="true"/>
-<Card Valor="3"/>
+<Card Valor="2"/>
 <MovimentacaoManual Valor="false"/>
 <Papel Valor=""/>
 </Cardinalidade>
@@ -360,11 +356,8 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="33" PontaB="32"/>
 <Pontos>
-<Ponto Left="373" Top="342"/>
+<Ponto Left="374" Top="342"/>
 <Ponto Left="364" Top="342"/>
-<Ponto Left="364" Top="327"/>
-<Ponto Left="364" Top="327"/>
-<Ponto Left="364" Top="327"/>
 <Ponto Left="364" Top="320"/>
 </Pontos>
 </Ligacao>
@@ -398,11 +391,8 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="36" PontaB="32"/>
 <Pontos>
-<Ponto Left="365" Top="363"/>
+<Ponto Left="366" Top="363"/>
 <Ponto Left="356" Top="363"/>
-<Ponto Left="356" Top="338"/>
-<Ponto Left="356" Top="338"/>
-<Ponto Left="356" Top="338"/>
 <Ponto Left="356" Top="320"/>
 </Pontos>
 </Ligacao>
@@ -436,7 +426,7 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="38" PontaB="32"/>
 <Pontos>
-<Ponto Left="358" Top="387"/>
+<Ponto Left="359" Top="387"/>
 <Ponto Left="346" Top="387"/>
 <Ponto Left="346" Top="320"/>
 </Pontos>
@@ -471,7 +461,7 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="41" PontaB="32"/>
 <Pontos>
-<Ponto Left="356" Top="408"/>
+<Ponto Left="357" Top="408"/>
 <Ponto Left="338" Top="408"/>
 <Ponto Left="338" Top="320"/>
 </Pontos>
@@ -506,7 +496,7 @@
 <Largura Valor="1"/>
 <Ligacoes PontaA="44" PontaB="32"/>
 <Pontos>
-<Ponto Left="342" Top="427"/>
+<Ponto Left="343" Top="427"/>
 <Ponto Left="330" Top="427"/>
 <Ponto Left="330" Top="320"/>
 </Pontos>
@@ -538,7 +528,7 @@
 <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
 <Ancorado Valor="false"/>
 <TamanhoAutmatico Valor="true"/>
-<Card Valor="2"/>
+<Card Valor="0"/>
 <MovimentacaoManual Valor="false"/>
 <Papel Valor=""/>
 </Cardinalidade>
@@ -578,7 +568,7 @@
 <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
 <Ancorado Valor="false"/>
 <TamanhoAutmatico Valor="true"/>
-<Card Valor="0"/>
+<Card Valor="3"/>
 <MovimentacaoManual Valor="false"/>
 <Papel Valor=""/>
 </Cardinalidade>
@@ -615,7 +605,7 @@
 <Pontos>
 <Ponto Left="408" Top="135"/>
 <Ponto Left="408" Top="93"/>
-<Ponto Left="430" Top="93"/>
+<Ponto Left="431" Top="93"/>
 </Pontos>
 </Ligacao>
 </DIAGRAMA>
