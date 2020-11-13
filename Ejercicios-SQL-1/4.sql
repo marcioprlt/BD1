@@ -1,0 +1,1 @@
+SELECT DISTINCT first_name FROM Employees ORDER BY first_name;

@@ -1,0 +1,3 @@
+SELECT * FROM Employees
+ORDER BY emp_no ASC
+LIMIT 100;
